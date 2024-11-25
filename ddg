@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mensagem Sincera</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+            margin-top: 100px;
+        }
+        h1 {
+            color: #ff0000;
+        }
+        p {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h1>Se vc por o nome da larissa na sua boca eu vou te hakear</h1>
+    <p>Se liga viu,camily Ribeiro, não vacila!</p>
+</body>
+</html>
